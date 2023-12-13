@@ -1,0 +1,34 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "title": "独裁者",
+      "author": "Jboy"
+    },
+    {
+      "id": 2,
+      "title": "大学院生",
+      "author": "イセリュー"
+    },
+    {
+      "id": 3,
+      "title": "何でも屋",
+      "author": "mogumogu"
+    },
+    {
+      "title": "人生とは?",
+      "author": "Jboy",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
